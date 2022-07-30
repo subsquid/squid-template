@@ -1,5 +1,5 @@
 {
-  "name": "kusama-balances",
+  "name": "kusama-transfers",
   "private": true,
   "scripts": {
     "build": "rm -rf lib && tsc",

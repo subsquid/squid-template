@@ -1,7 +1,7 @@
 # Squid template project
 
 A starter [Squid](https://subsquid.io) project to demonstrate its structure and conventions.
-It accumulates [kusama](https://kusama.network) account balances and serves them via GraphQL API.
+It accumulates [kusama](https://kusama.network) account transfers and serves them via GraphQL API.
 
 ## Summary
 
